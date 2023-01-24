@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+body {
+  font-family: "Poppins";
+  background-color: #e4dccf;
+}
+
+.card-kalkulator {
+  width: 450px;
+  height: 600px;
+  background-color: #3c2a21;
+  margin-left: 330px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #3c2a21;
+}
+
+.hasil {
+  /* background-color: #fed049; */
+  width: 400px;
+  height: 100px;
+  margin-left: 24px;
+}
+
+.hasil p,
+.display-operator p {
+  color: white;
+  font-weight: bold;
+}
+
+.display-operator {
+  width: 400px;
+  height: 20px;
+  /* background-color: #fed049; */
+  margin-left: 24px;
+}
+
+.font-70 {
+  font-size: 70px;
+}
+
+.font-40 {
+  font-size: 40px;
+}
+
+.operator {
+  width: 400px;
+  height: 363px;
+  /* background-color: #fed049; */
+  margin-left: 24px;
+}
+
+.operator button {
+  width: 80px;
+  height: 80px;
+  border: none;
+  background-color: #fed049;
+  font-weight: bold;
+}
